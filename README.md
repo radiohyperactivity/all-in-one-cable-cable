@@ -2,9 +2,9 @@
 
 An enclosure for attaching a K-type / "Kenwood" microphone cable to the AIOC.
 
-[Build video](https://youtu.be/3fS-DUADLck)
+[Build video](https://youtu.be/iKqke8ZRxv0)
 
-[![](wifi-controlled-antenna-switch.png)](https://youtu.be/3fS-DUADLck)
+[![](thumb.png)](https://youtu.be/iKqke8ZRxv0)
 
 ## Bill of Materials
 
