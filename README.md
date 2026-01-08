@@ -2,7 +2,7 @@
 
 An enclosure for attaching a K-type / "Kenwood" microphone cable to the AIOC.
 
-[Build video](https://youtu.be/iKqke8ZRxv0)
+[Build video](https://youtu.be/iKqke8ZRxv0) (will be released 2026-01-09 17:00 UTC)
 
 [![](thumb.png)](https://youtu.be/iKqke8ZRxv0)
 
