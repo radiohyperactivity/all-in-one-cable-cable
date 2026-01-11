@@ -8,7 +8,7 @@ An enclosure for attaching a K-type / "Kenwood" microphone cable to the AIOC.
 
 ## Bill of Materials
 
-- **M2 Brass Heat-Set Inserts**:
+- **M2 Brass Heat-Set Inserts (OD 3.5mm)**:
   - Affiliate link: https://s.click.aliexpress.com/e/_c4bliVCF
   - Non-affiliate link: https://www.aliexpress.com/item/1005007342105110.html
 - **M2 x 6 mm Pan Head Screws**
